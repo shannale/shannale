@@ -1,4 +1,4 @@
-### Hello! I'm Shanna 😸
+### Hello! I'm Shanna 
 ![github cat](https://github.com/shannale/shannale/assets/123720213/9a248704-dd22-41a8-be4f-6664a322f71f)
 
 
