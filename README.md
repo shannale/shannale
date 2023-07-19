@@ -4,8 +4,6 @@
   <img src="https://github.com/shannale/shannale/assets/123720213/9a248704-dd22-41a8-be4f-6664a322f71f" alt="Animated GIF" width="200">
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shannale &theme=radical)
-
 
 <!--
 **shannale/shannale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
