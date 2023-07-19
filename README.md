@@ -3,12 +3,12 @@
   <img src="https://github.com/shannale/shannale/assets/123720213/9a248704-dd22-41a8-be4f-6664a322f71f" alt="Animated GIF" width="150">
 </p>
 
-<p align="center"> I am a software engineer with a love for technology and a passion for problem solving. I am eagerly seeking to develop skills across all realms of software development.  </p>
+<p align="center"> I am a software engineer with a love for technology, a passion for problem solving, a knack for all things beauty related, and an adoration in making people feel their best inside and out!. I am eagerly seeking to develop skills across all realms of software development.  </p>
 
 
 <h3 align="center">Connect with me!</h3>
 <p align="center">
-<a href="https://linkedin.com/in/shannale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shannale" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shanna-le/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shannale" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Technologies I've Worked With:</h3>
