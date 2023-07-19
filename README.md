@@ -3,7 +3,7 @@
   <img src="https://github.com/shannale/shannale/assets/123720213/9a248704-dd22-41a8-be4f-6664a322f71f" alt="Animated GIF" width="150">
 </p>
 
-<p align="center"> I am a software engineer with a love for technology and problem solving, a knack for all things beauty related, and a passion for making people feel their best inside and out!. Eagerly seeking to develop skills across all realms of software development.  </p>
+<p align="center"> I am a software engineer with a love for technology and problem solving, a knack for all things beauty related, and a passion for making people feel their best inside and out! Eagerly seeking to develop skills across all realms of software development.  </p>
 
 
 <h3 align="center">Connect with me!</h3>
